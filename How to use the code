@@ -1,0 +1,6 @@
+Requirements to run this code: 1. Webcam 
+                               2. an IDE with python 3.10 (example:Thonny) 
+                               3. Download these Python libraries: cv2(for capturing input through camera), mediapipe(movement detection), pyautogui(for camera mirror gui and showing activated inputs), numpy, time
+                               4. Eyebrow (as it is to scroll using Eyebrow)
+
+How it will works: after fullfilling the requirements, run the code in IDE. after running, a gui will appear where you can see your face. Make sure there is enough light behind the camera so that face can be clearly seen. If all these things are same as my instruction, then its going well. To test its function, do this. For upscroll, raise your eyebrows. For downscroll, wrinkles your eyebrows. To stay idle, keep your eyebrow straight. Thats it 
